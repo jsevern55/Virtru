@@ -14,7 +14,7 @@ from selenium.webdriver.common.keys import Keys
 URL = "http://www.gmail.com"
 email = "jr.severn55@gmail.com"
 pw = "Test123!"
-decryptedMessage = "This message has been encrypted by Virtru. Please verify this message using Selenium Webdiver."
+decryptedMessage = "This message has been encrypted by Virtru. Please verify this message using Selenium Webdriver."
 
 ######################################################
 #                  XPATHS                            #
@@ -34,7 +34,7 @@ inbox = "//a[contains(@href, 'https://mail.google.com/mail/u/0/#inbox')]"
 refresh = "//div[contains(@data-tooltip, 'Refresh')]"
 verifyMe = "//a[text()[contains(., 'VERIFY ME')]]"
 virtruLabel = "//span[text()[contains(., 'Encrypted Message')]]/span[contains(text(), 'Virtru')]"
-decryptedMessageXpath = "//span[contains(@class, 'tdf-body')]" #"//div[contains(@class, 'row row-body')]/descendant::*[contains(text(), '" + decryptedMessage + "')]"
+decryptedMessageXpath = "//span[contains(@class, 'tdf-body')]"
 contextDeleteEmail = "//div[text()='Delete']"
 deleteEmail = "//div[contains(@aria-label, 'Delete')]"
 
