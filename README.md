@@ -1,4 +1,4 @@
-# Virtu
+# Virtru
 Repository for Python Selenium Webdriver test cases
 
 Please contact me if there are any questions - jsevern55@outlook.com
@@ -22,7 +22,7 @@ Ensure that the following directories are added to the System variable "Path" (i
 #### Cloning this repository:
   * Open a new terminal
   * Change directory to C:\ (`cd \`)
-  * Run `git clone https://github.com/jsevern55/Virtu.git`
+  * Run `git clone https://github.com/jsevern55/Virtru.git`
   
   ## Executing test cases:
   * Change directory to the local repository `cd Virtru`
