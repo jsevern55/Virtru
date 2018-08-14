@@ -1,4 +1,4 @@
-# Virtu
+# Virtru
 Repository for Python Selenium Webdriver test cases
 
 Please contact me if there are any questions - jsevern55@outlook.com
@@ -6,7 +6,7 @@ Please contact me if there are any questions - jsevern55@outlook.com
 ## Requirements:
 * Windows 10
 * Chrome 67+
-* [Python 2.7.12](https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi) (Install to `C:\` for the sake of simplicity)
+* [Python 2.7.15](https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi) (Install to `C:\` for the sake of simplicity)
 * [Node.js](https://nodejs.org/en/download/current/)
 * [Chromdriver.exe](https://chromedriver.storage.googleapis.com/2.40/chromedriver_win32.zip) (copy to `C:\Python27\Scripts`)
 * [Git for Windows](https://git-scm.com/download/win)
@@ -22,7 +22,7 @@ Ensure that the following directories are added to the System variable "Path" (i
 #### Cloning this repository:
   * Open a new terminal
   * Change directory to C:\ (`cd \`)
-  * Run `git clone https://github.com/jsevern55/Virtu.git`
+  * Run `git clone https://github.com/jsevern55/Virtru.git`
   
   ## Executing test cases:
   * Change directory to the local repository `cd Virtru`
